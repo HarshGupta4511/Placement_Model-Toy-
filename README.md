@@ -35,4 +35,4 @@ I rebuilt a `scaler.pkl` by fitting a fresh `StandardScaler` on your full `place
 ## Notes
 
 - This is intentionally simple, no database, no deployment config, just a local Flask app you can run and demo.
-- `debug=True` is fine for local testing; turn it off before sharing/deploying publicly.
+- This model is made up of very small dataset (Toy_data) just for Learning Purspose
